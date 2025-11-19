@@ -1,0 +1,29 @@
+# Bỏ dataset và dữ liệu nặng
+dataset/
+data_split_2/
+Lap/
+*.zip
+*.rar
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+*.h5
+*.pkl
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
